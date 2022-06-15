@@ -1,0 +1,11 @@
+.navbar{
+   display: flex;
+   flex-direction: column;
+   align-items: flex-end;
+   background-color: transparent;
+
+}
+
+.nav-links li{
+    list-style-type: none;
+}
